@@ -23,14 +23,63 @@ function getRandomfromArray(Array){
 }
 
 let destinationResult = getRandomfromArray(destinationArray)
-console.log (destinationArray)
+
 
 let restaurantResult = getRandomfromArray(restaurantArray)
-console.log (restaurantArray)
+
 
 let transportationResult = getRandomfromArray(transportationArray)
-console.log (transportationArray)
+
 
 let entertainmentResult = getRandomfromArray(entertainmentArray)
-console.log (entertainmentArray)
+
+
+let randomTrip= [destinationResult, restaurantResult, transportationResult, entertainmentResult]
+console.log (randomTrip)
+
+
+function doyoulikerestaurantchoice(randomTrip){
+  if(any = yes) {
+    return awesome;
+}
+
+else if ("thank you")
+console.log("awesome");
+}
+
+function doyoulikedestinationresult(randomTrip){
+  if(answer === "yes"){
+    return Great;
+  }
+  else if
+    return try again;
+  }
+
+}
+
+function doyoulikedestinationresult (randomTrip){
+  if(answer === "yes"){
+    return great;
+  }
+  else{
+    return try again;
+   }
+}
+
+function doyoulikeentertainmentresult (randomTrip){
+  if(answer=== "yes"){
+    return great;
+  }
+  else{
+    return try again;
+    }
+}
+let great= "great! Thanks for choosing this"
+let try again= "thankyou try again"
+
+function tripIscomplete
+if(answer=== "yes")
+console.log(tripIscomplete)
+
+
 
